@@ -16,3 +16,9 @@ Solo estructura y archivos base; no contiene lógica de negocio.
 
 ## Flujo prototipado propuesto
 Login → Dashboard → Crear tarea; Dashboard ↔ Calendario; Dashboard → Perfil.
+
+
+## Prototipo en Figma
+
+Enlace al prototipo interactivo:
+[Ver prototipo de Planora en Figma](https://www.figma.com/design/NuMt0mOT0qmYnK8CnS8XzZ/Sin-t%C3%ADtulo?node-id=0-1&t=nJHYk4FADjEtUSZQ-1))
